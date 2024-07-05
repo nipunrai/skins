@@ -1,0 +1,66 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+header{
+    background-color:white;
+}
+.span-image-nft{
+    height:100px;
+    width:200px;
+    margin-bottom:100px;
+}
+
+nav{
+    display: flex;
+    height:100px;
+}
+
+ul, li, a{
+    display: flex;
+    margin-left: auto;
+    padding:15px 50px 0px 0px;
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:1.1rem;
+    color:black;
+}
+
+/* body style */
+body{
+    background-color: rgb(251, 238, 222);
+}
+
+.flex-box1{
+    text-align: center;
+    text-transform:uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size:1.1rem;
+}
+
+h2{
+    text-align: left;
+    padding-left:2rem;
+}
+
+p{
+    font-style: normal;
+    text-transform: none;
+    font-family: 'Times New Roman', Times, serif;
+    line-height:1.5rem;
+    margin:0px 2rem 0px 2rem;
+}
+
+.flex-box2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.image-box-nft{
+    height:200px;
+    width:auto;
+    margin:3rem;
+    border-radius:1rem;
+}
